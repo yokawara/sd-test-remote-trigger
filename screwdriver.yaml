@@ -9,3 +9,4 @@ jobs:
     requires: [~sd@2440:main]
     steps:
       - echo: echo sub
+      - env: env
